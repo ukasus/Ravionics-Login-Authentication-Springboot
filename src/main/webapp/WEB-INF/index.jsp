@@ -8,10 +8,9 @@
 </head>
 <body>
 <pre>
-<a href="/showLogin"><h2>Login</h2></a>
+<h2>Existing users..</h2><a href="/showLogin"><h2>Login</h2></a>
 
-
-<a href="/register"><h2>SignUp</h2></a>
+<h2>New User..</h2><a href="/register"><h2>SignUp</h2></a>
 </pre>
 </body>
 </html>
